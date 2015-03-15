@@ -1,0 +1,11 @@
+EuroScope Sector File Provider File
+
+NAME:Vatsim-Scandinavia - Denmark
+URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/denmark/EKDK_sector_file.txt
+DOWNLOADINTERVAL:24
+
+# sectorfiles provided by me
+SECTOR_NAME:EKDK Copenhagen FIR - Sector and ESE File
+SECTOR_FILE_NAME:EKDK_official
+SECTOR_VERSION:14_13_v01
+SECTOR_URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/denmark/EKDK_official_14_13_v01.7z
