@@ -1,0 +1,38 @@
+RecentFiles	Recent1	\ASRs\EK-general.asr
+RecentFiles	Recent2	\ASRs\EKCH_GND.asr
+Settings	sector	\Sectors\EKDK_official_16_13.sct
+Settings	Settingsfile	\Settings\General.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbols.txt
+Settings	SettingsfileVOICE	\Settings\Frequencies.txt
+Settings	SettingsfilePROFILE	\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\Lists.txt
+Settings	SettingsfileSEL	\Settings\Lists.txt
+Settings	SettingsfileDEP	\Settings\Lists.txt
+Settings	SettingsfileARR	\Settings\Lists.txt
+Settings	SettingsfileFP	\Settings\Lists.txt
+Settings	SettingsfileCONFLICT	\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\Settings\Plugin.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Plugins	Plugin0	\Plugins\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\Plugins\GRplugin.dll
+Settings	AtisFolder	C:\Users\Gustav\Documents\EuroScope\CopenhagenFIR ATIS V2.2\atisfiles.txt
+Voice	PPPT	3670016
+Voice	SPPT	2752512
+LastSession	connecttype	0
+LastSession	callsign
+LastSession	realname
+LastSession	certificate
+LastSession	password
+LastSession	facility
+LastSession	rating
+LastSession	server
+LastSession	tovatsim
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_airport	ekch
+LastSession	atis_letter	82
+Settings	AselKey	5111808
+Settings	FreqKey	3604480

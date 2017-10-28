@@ -7,5 +7,5 @@ DOWNLOADINTERVAL:24
 # sectorfiles provided by me
 SECTOR_NAME:EKDK Copenhagen FIR - Sector and ESE File
 SECTOR_FILE_NAME:EKDK_official
-SECTOR_VERSION:14_13_v01
-SECTOR_URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/denmark/EKDK_official_14_13_v01.7z
+SECTOR_VERSION:16_13
+SECTOR_URL:http://vatsim-scandinavia.org/wp-content/uploads/2012/12/EKDK_official_16_13_UPDATE.zip

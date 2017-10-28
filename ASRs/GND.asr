@@ -1,0 +1,1243 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:EKDK_official_15_13_v01.sct
+SECTORTITLE:EKDK_official_15_13_v01.sct
+Fixes:Hold-East:name
+Fixes:Hold-East:symbol
+Fixes:Hold-North:name
+Fixes:Hold-North:symbol
+Fixes:Hold-West:name
+Fixes:Hold-West:symbol
+Fixes:Ishoj:name
+Fixes:Ishoj:symbol
+Fixes:RUBAT:name
+Fixes:RUBAT:symbol
+Fixes:Valby:name
+Fixes:Valby:symbol
+Fixes:Vallensbak:name
+Fixes:Vallensbak:symbol
+Free Text:AAL taxiway\08L:freetext
+Free Text:AAL taxiway\08R:freetext
+Free Text:AAL taxiway\1:freetext
+Free Text:AAL taxiway\2:freetext
+Free Text:AAL taxiway\26L:freetext
+Free Text:AAL taxiway\26R:freetext
+Free Text:AAL taxiway\3:freetext
+Free Text:AAL taxiway\4:freetext
+Free Text:AAL taxiway\5:freetext
+Free Text:AAL taxiway\A:freetext
+Free Text:AAL taxiway\B:freetext
+Free Text:AAL taxiway\C:freetext
+Free Text:AAL taxiway\C:freetext
+Free Text:AAL taxiway\D:freetext
+Free Text:AAL taxiway\E:freetext
+Free Text:AAL taxiway\F:freetext
+Free Text:AAL taxiway\G:freetext
+Free Text:AAL taxiway\G:freetext
+Free Text:AAL taxiway\H:freetext
+Free Text:AAL taxiway\J:freetext
+Free Text:AAL taxiway\K:freetext
+Free Text:AAL taxiway\N:freetext
+Free Text:AAL taxiway\N:freetext
+Free Text:AAL taxiway\N:freetext
+Free Text:AAL taxiway\N:freetext
+Free Text:AAR Runway\10L:freetext
+Free Text:AAR Runway\10R:freetext
+Free Text:AAR Runway\28L:freetext
+Free Text:AAR Runway\28R:freetext
+Free Text:Heli spot\SAR ONLY:freetext
+Free Text:RK Tower\A:freetext
+Free Text:RK Tower\A:freetext
+Free Text:RK Tower\A:freetext
+Free Text:RK Tower\A:freetext
+Free Text:RK Tower\A1:freetext
+Free Text:RK Tower\A2:freetext
+Free Text:RK Tower\A3:freetext
+Free Text:RK Tower\A4:freetext
+Free Text:RK Tower\A5:freetext
+Free Text:RK Tower\APRON:freetext
+Free Text:RK Tower\B:freetext
+Free Text:RK Tower\B:freetext
+Free Text:RK Tower\B:freetext
+Free Text:RK Tower\B1:freetext
+Free Text:RK Tower\B2:freetext
+Free Text:RK Tower\B3:freetext
+Free Text:RK Tower\B4:freetext
+Free Text:RK Tower\B5:freetext
+Free Text:RK Tower\C:freetext
+Free Text:RK Tower\D:freetext
+Free Text:RK Tower\D:freetext
+Free Text:RK Tower\E:freetext
+Free Text:RK Tower\F:freetext
+Free Text:RK Tower\G:freetext
+Free Text:RK Tower\H:freetext
+Free Text:RK Tower\H:freetext
+Free Text:RK Tower\H:freetext
+Free Text:RK Tower\H:freetext
+Free Text:RK Tower\J:freetext
+Free Text:RK Tower\TOWER:freetext
+Free Text:RN\1:freetext
+Free Text:RN\2:freetext
+Free Text:RN\A:freetext
+Free Text:RN\B:freetext
+Free Text:RN\C:freetext
+Free Text:RN\FUEL:freetext
+Free Text:Skrydstrup\A:freetext
+Free Text:Skrydstrup\A:freetext
+Free Text:Skrydstrup\APRON:freetext
+Free Text:Skrydstrup\B:freetext
+Free Text:Skrydstrup\B:freetext
+Free Text:Skrydstrup\C:freetext
+Free Text:Skrydstrup\C:freetext
+Free Text:Skrydstrup\D:freetext
+Free Text:Skrydstrup\D:freetext
+Free Text:Skrydstrup\NTWY:freetext
+Free Text:Skrydstrup\NTWY:freetext
+Free Text:Skrydstrup\NTWY:freetext
+Free Text:stand BI\A:freetext
+Free Text:stand BI\B:freetext
+Free Text:stand BI\C:freetext
+Free Text:stand BI\D:freetext
+Free Text:stand BI\D:freetext
+Free Text:stand BI\F:freetext
+Free Text:stand BI\F:freetext
+Free Text:stand BI\F:freetext
+Free Text:stand BI\G:freetext
+Free Text:stand BI\G2:freetext
+Free Text:stand BI\G3:freetext
+Free Text:stand BI\G4:freetext
+Free Text:stand BI\J:freetext
+Free Text:stand BI\K:freetext
+Free Text:stand BI\K:freetext
+Free Text:stand BI\K:freetext
+Free Text:stand BI\M:freetext
+Free Text:stand BI\N:freetext
+Free Text:stand BI\N:freetext
+Free Text:stand CPH\A11:freetext
+Free Text:stand CPH\A12:freetext
+Free Text:stand CPH\A14:freetext
+Free Text:stand CPH\A15:freetext
+Free Text:stand CPH\A16:freetext
+Free Text:stand CPH\A17:freetext
+Free Text:stand CPH\A18:freetext
+Free Text:stand CPH\A19:freetext
+Free Text:stand CPH\A20:freetext
+Free Text:stand CPH\A21:freetext
+Free Text:stand CPH\A22:freetext
+Free Text:stand CPH\A23:freetext
+Free Text:stand CPH\A25:freetext
+Free Text:stand CPH\A26:freetext
+Free Text:stand CPH\A27:freetext
+Free Text:stand CPH\A28:freetext
+Free Text:stand CPH\A28:freetext
+Free Text:stand CPH\A30:freetext
+Free Text:stand CPH\A31:freetext
+Free Text:stand CPH\A32:freetext
+Free Text:stand CPH\A33:freetext
+Free Text:stand CPH\A34:freetext
+Free Text:stand CPH\A4:freetext
+Free Text:stand CPH\A6:freetext
+Free Text:stand CPH\A7:freetext
+Free Text:stand CPH\A8:freetext
+Free Text:stand CPH\A9:freetext
+Free Text:stand CPH\B10:freetext
+Free Text:stand CPH\B15:freetext
+Free Text:stand CPH\B16:freetext
+Free Text:stand CPH\B17:freetext
+Free Text:stand CPH\B19:freetext
+Free Text:stand CPH\B2:freetext
+Free Text:stand CPH\B3:freetext
+Free Text:stand CPH\B4:freetext
+Free Text:stand CPH\B5:freetext
+Free Text:stand CPH\B6:freetext
+Free Text:stand CPH\B7:freetext
+Free Text:stand CPH\B8:freetext
+Free Text:stand CPH\B9:freetext
+Free Text:stand CPH\C10:freetext
+Free Text:stand CPH\C27:freetext
+Free Text:stand CPH\C26:freetext
+Free Text:stand CPH\C28:freetext
+Free Text:stand CPH\C29:freetext
+Free Text:stand CPH\C30:freetext
+Free Text:stand CPH\C32:freetext
+Free Text:stand CPH\C33:freetext
+Free Text:stand CPH\C34:freetext
+Free Text:stand CPH\C35:freetext
+Free Text:stand CPH\C36:freetext
+Free Text:stand CPH\C37:freetext
+Free Text:stand CPH\C38:freetext
+Free Text:stand CPH\C39:freetext
+Free Text:stand CPH\C40:freetext
+Free Text:stand CPH\C43:freetext
+Free Text:stand CPH\C45:freetext
+Free Text:stand CPH\C47:freetext
+Free Text:stand CPH\C49:freetext
+Free Text:stand CPH\D1:freetext
+Free Text:stand CPH\D2:freetext
+Free Text:stand CPH\D3:freetext
+Free Text:stand CPH\D4:freetext
+Free Text:stand CPH\E70:freetext
+Free Text:stand CPH\E70:freetext
+Free Text:stand CPH\E72:freetext
+Free Text:stand CPH\E73:freetext
+Free Text:stand CPH\E74:freetext
+Free Text:stand CPH\E75:freetext
+Free Text:stand CPH\E76:freetext
+Free Text:stand CPH\E77:freetext
+Free Text:stand CPH\E78:freetext
+Free Text:stand CPH\F1:freetext
+Free Text:stand CPH\F4:freetext
+Free Text:stand CPH\F5:freetext
+Free Text:stand CPH\F7:freetext
+Free Text:stand CPH\F8:freetext
+Free Text:stand CPH\F9:freetext
+Free Text:stand CPH\F90:freetext
+Free Text:stand CPH\F91:freetext
+Free Text:stand CPH\F92:freetext
+Free Text:stand CPH\F93:freetext
+Free Text:stand CPH\F94:freetext
+Free Text:stand CPH\F95:freetext
+Free Text:stand CPH\F96:freetext
+Free Text:stand CPH\F97:freetext
+Free Text:stand CPH\F98:freetext
+Free Text:stand CPH\G110:freetext
+Free Text:stand CPH\G111:freetext
+Free Text:stand CPH\G112:freetext
+Free Text:stand CPH\G113:freetext
+Free Text:stand CPH\G114:freetext
+Free Text:stand CPH\G120:freetext
+Free Text:stand CPH\G121:freetext
+Free Text:stand CPH\G122:freetext
+Free Text:stand CPH\G123:freetext
+Free Text:stand CPH\G124:freetext
+Free Text:stand CPH\G125:freetext
+Free Text:stand CPH\G126:freetext
+Free Text:stand CPH\G127:freetext
+Free Text:stand CPH\G128:freetext
+Free Text:stand CPH\G129:freetext
+Free Text:stand CPH\G130:freetext
+Free Text:stand CPH\G131:freetext
+Free Text:stand CPH\G132:freetext
+Free Text:stand CPH\G133:freetext
+Free Text:stand CPH\G134:freetext
+Free Text:stand CPH\G135:freetext
+Free Text:stand CPH\G136:freetext
+Free Text:stand CPH\G137:freetext
+Free Text:stand CPH\H101:freetext
+Free Text:stand CPH\H102:freetext
+Free Text:stand CPH\H103:freetext
+Free Text:stand CPH\H104:freetext
+Free Text:stand CPH\H105:freetext
+Free Text:stand CPH\H106:freetext
+Free Text:stand CPH\H107:freetext
+Free Text:STAND EB\1:freetext
+Free Text:STAND EB\2:freetext
+Free Text:STAND EB\3:freetext
+Free Text:STAND EB\4:freetext
+Free Text:STAND EB\5:freetext
+Free Text:stand KA\1:freetext
+Free Text:stand KA\2:freetext
+Free Text:stand KA\3:freetext
+Free Text:stand KA\4:freetext
+Free Text:stand KA\5:freetext
+Free Text:stand KA\E:freetext
+Free Text:stand KA\E:freetext
+Free Text:stand KA\E:freetext
+Free Text:stand KA\E:freetext
+Free Text:stand KA\E:freetext
+Free Text:stand KA\P:freetext
+Free Text:stand KA\P:freetext
+Free Text:stand KA\S:freetext
+Free Text:stand KA\S:freetext
+Free Text:stand KA\S:freetext
+Free Text:stand KA\S:freetext
+Free Text:stand KA\S:freetext
+Free Text:stand KA\W:freetext
+Free Text:stand KA\W:freetext
+Free Text:stand KA\W:freetext
+Free Text:stand KA\X:freetext
+Free Text:stand KA\X:freetext
+Free Text:Stand nr AH\1:freetext
+Free Text:Stand nr AH\15:freetext
+Free Text:Stand nr AH\16:freetext
+Free Text:Stand nr AH\2:freetext
+Free Text:Stand nr AH\3:freetext
+Free Text:Stand nr AH\4:freetext
+Free Text:Stand NR BI\25:freetext
+Free Text:Stand NR BI\26:freetext
+Free Text:Stand NR BI\27:freetext
+Free Text:Stand NR BI\28:freetext
+Free Text:Stand NR BI\29:freetext
+Free Text:Stand NR BI\31:freetext
+Free Text:Stand NR BI\32:freetext
+Free Text:Stand NR BI\34:freetext
+Free Text:Stand NR BI\35:freetext
+Free Text:Stand NR BI\36:freetext
+Free Text:Stand NR BI\37:freetext
+Free Text:Stand NR BI\38:freetext
+Free Text:Stand NR BI\39:freetext
+Free Text:Stand NR BI\40:freetext
+Free Text:Stand NR BI\65:freetext
+Free Text:Stand NR BI\66:freetext
+Free Text:Stand NR BI\67:freetext
+Free Text:Stand NR BI\68:freetext
+Free Text:Stand NR BI\69:freetext
+Free Text:Stand NR BI\90:freetext
+Free Text:Stand NR BI\91:freetext
+Free Text:Stand NR BI\92:freetext
+Free Text:Stand NR BI\93:freetext
+Free Text:Stand NR BI\94:freetext
+Free Text:Taxi Way AH\A:freetext
+Free Text:Taxi Way AH\A:freetext
+Free Text:Taxi Way AH\B:freetext
+Free Text:Taxi Way AH\E:freetext
+Free Text:Taxi Way AH\E:freetext
+Free Text:Taxi Way AH\E:freetext
+Free Text:Taxi Way AH\G:freetext
+Free Text:Taxi Way AH\G:freetext
+Free Text:Taxi Way AH\W:freetext
+Free Text:Taxi Way AH\X:freetext
+Free Text:Taxi Way AH\X:freetext
+Free Text:Taxi Way AH\Y:freetext
+Free Text:Taxi Way AH\Y:freetext
+Free Text:Taxi Way AH\Z:freetext
+Free Text:Taxi Way AH\Z:freetext
+Free Text:Taxi Way CPH\A:freetext
+Free Text:Taxi Way CPH\A:freetext
+Free Text:Taxi Way CPH\A1:freetext
+Free Text:Taxi Way CPH\A10:freetext
+Free Text:Taxi Way CPH\A11:freetext
+Free Text:Taxi Way CPH\A11:freetext
+Free Text:Taxi Way CPH\A12:freetext
+Free Text:Taxi Way CPH\A2:freetext
+Free Text:Taxi Way CPH\A3:freetext
+Free Text:Taxi Way CPH\A4:freetext
+Free Text:Taxi Way CPH\A5:freetext
+Free Text:Taxi Way CPH\A6:freetext
+Free Text:Taxi Way CPH\A7:freetext
+Free Text:Taxi Way CPH\A8:freetext
+Free Text:Taxi Way CPH\A9:freetext
+Free Text:Taxi Way CPH\B:freetext
+Free Text:Taxi Way CPH\B:freetext
+Free Text:Taxi Way CPH\B1:freetext
+Free Text:Taxi Way CPH\B2:freetext
+Free Text:Taxi Way CPH\B3:freetext
+Free Text:Taxi Way CPH\B4:freetext
+Free Text:Taxi Way CPH\B5:freetext
+Free Text:Taxi Way CPH\C:freetext
+Free Text:Taxi Way CPH\C:freetext
+Free Text:Taxi Way CPH\C:freetext
+Free Text:Taxi Way CPH\C:freetext
+Free Text:Taxi Way CPH\D:freetext
+Free Text:Taxi Way CPH\D:freetext
+Free Text:Taxi Way CPH\E1:freetext
+Free Text:Taxi Way CPH\E2:freetext
+Free Text:Taxi Way CPH\E3:freetext
+Free Text:Taxi Way CPH\E4:freetext
+Free Text:Taxi Way CPH\F:freetext
+Free Text:Taxi Way CPH\F1:freetext
+Free Text:Taxi Way CPH\F2:freetext
+Free Text:Taxi Way CPH\G:freetext
+Free Text:Taxi Way CPH\G:freetext
+Free Text:Taxi Way CPH\G1:freetext
+Free Text:Taxi Way CPH\G2:freetext
+Free Text:Taxi Way CPH\G3:freetext
+Free Text:Taxi Way CPH\G4:freetext
+Free Text:Taxi Way CPH\G5:freetext
+Free Text:Taxi Way CPH\G6:freetext
+Free Text:Taxi Way CPH\I:freetext
+Free Text:Taxi Way CPH\J:freetext
+Free Text:Taxi Way CPH\J:freetext
+Free Text:Taxi Way CPH\K:freetext
+Free Text:Taxi Way CPH\K1:freetext
+Free Text:Taxi Way CPH\K2:freetext
+Free Text:Taxi Way CPH\K3:freetext
+Free Text:Taxi Way CPH\L:freetext
+Free Text:Taxi Way CPH\L:freetext
+Free Text:Taxi Way CPH\M:freetext
+Free Text:Taxi Way CPH\N1:freetext
+Free Text:Taxi Way CPH\N2:freetext
+Free Text:Taxi Way CPH\N2:freetext
+Free Text:Taxi Way CPH\P:freetext
+Free Text:Taxi Way CPH\Q:freetext
+Free Text:Taxi Way CPH\R:freetext
+Free Text:Taxi Way CPH\R:freetext
+Free Text:Taxi Way CPH\S:freetext
+Free Text:Taxi Way CPH\S:freetext
+Free Text:Taxi Way CPH\T:freetext
+Free Text:Taxi Way CPH\T:freetext
+Free Text:Taxi Way CPH\U:freetext
+Free Text:Taxi Way CPH\V:freetext
+Free Text:Taxi Way CPH\V1:freetext
+Free Text:Taxi Way CPH\V2:freetext
+Free Text:Taxi Way CPH\W:freetext
+Free Text:Taxi Way CPH\Y:freetext
+Free Text:Taxi Way CPH\Y:freetext
+Free Text:Taxi Way CPH\Y:freetext
+Free Text:Taxi Way CPH\Z:freetext
+Free Text:Taxi Way CPH\Z:freetext
+Free Text:Taxi Way CPH\Z:freetext
+Free Text:taxiway EB\A:freetext
+Free Text:taxiway EB\B:freetext
+Free Text:taxiway EB\C:freetext
+Free Text:taxiway EB\D:freetext
+Free Text:taxiway EB\D:freetext
+Free Text:taxiway EB\E:freetext
+Free Text:taxiway EB\F:freetext
+Free Text:taxiway EB\F:freetext
+Free Text:taxiway EB\G:freetext
+Free Text:taxiway EB\H:freetext
+Free Text:taxiway EB\I:freetext
+Free Text:taxiway SB\14:freetext
+Free Text:taxiway SB\32:freetext
+Free Text:taxiway SB\A:freetext
+Free Text:taxiway SB\B:freetext
+Free Text:taxiway SB\C:freetext
+Free Text:taxiway SB\D:freetext
+Free Text:taxiway SB\E:freetext
+Free Text:taxiway SN\A:freetext
+Free Text:taxiway SN\B:freetext
+Geo:GEO:
+Geo:N055.04.06.684:
+Geo:N055.04.07.041:
+Geo:N055.04.07.906:
+Geo:N055.04.08.263:
+Geo:N055.04.08.318:
+Geo:N055.04.08.730:
+Geo:N055.04.08.771:
+Geo:N055.04.08.854:
+Geo:N055.04.08.867:
+Geo:N055.04.08.950:
+Geo:N055.04.09.032:
+Geo:N055.04.09.060:
+Geo:N055.04.09.183:
+Geo:N055.04.09.266:
+Geo:N055.04.09.375:
+Geo:N055.04.09.650:
+Geo:N055.04.09.705:
+Geo:N055.04.09.801:
+Geo:N055.04.10.708:
+Geo:N055.04.11.325:
+Geo:N055.04.11.490:
+Geo:N055.04.11.628:
+Geo:N055.04.11.889:
+Geo:N055.04.12.026:
+Geo:N055.04.12.520:
+Geo:N055.04.12.644:
+Geo:N055.04.12.850:
+Geo:N055.04.12.905:
+Geo:N055.04.12.932:
+Geo:N055.04.12.946:
+Geo:N055.04.13.070:
+Geo:N055.04.13.152:
+Geo:N055.04.13.221:
+Geo:N055.04.13.303:
+Geo:N055.04.13.495:
+Geo:N055.04.13.523:
+Geo:N055.04.13.715:
+Geo:N055.04.14.223:
+Geo:N055.04.14.566:
+Geo:N055.04.14.580:
+Geo:N055.04.14.786:
+Geo:N055.04.15.033:
+Geo:N055.04.15.363:
+Geo:N055.44.36.928 E009.08.43.474:
+Geo:N055.44.38.315 E009.08.43.337:
+Geo:N055.44.38.700 E009.08.56.359:
+Regions:AHAP:polygon
+Regions:AHBASE:polygon
+Regions:AHBUILD:polygon
+Regions:AHGRAS:polygon
+Regions:AHISL:polygon
+Regions:AHRWY:polygon
+Regions:AHTERM:polygon
+Regions:AHTWY:polygon
+Regions:BASECPH:polygon
+Regions:BIAP:polygon
+Regions:BIBASE:polygon
+Regions:BIBUILD:polygon
+Regions:BIISL:polygon
+Regions:BIRWY:polygon
+Regions:BITERM:polygon
+Regions:BITWY:polygon
+Regions:BITWY:polygon
+Regions:CPHAP:polygon
+Regions:CPHBUILD:polygon
+Regions:CPHCON:polygon
+Regions:CPHEX:polygon
+Regions:CPHGOTERM:polygon
+Regions:CPHISL:polygon
+Regions:CPHR22:polygon
+Regions:CPHTERM:polygon
+Regions:CPHTWY:polygon
+Regions:EKEB:polygon
+Regions:EKRD:polygon
+Regions:EKRN:polygon
+Regions:EKSB:polygon
+Regions:EKSN:polygon
+Regions:EKTS:polygon
+Regions:EKVH:polygon
+Regions:RWY1213:polygon
+Regions:YTAP:polygon
+Regions:YTBASE:polygon
+Regions:YTBUILD:polygon
+Regions:YTGRAS:polygon
+Regions:YTISL:polygon
+Regions:YTRWY:polygon
+Regions:YTTERM:polygon
+Regions:YTTWY:polygon
+Runways:EKAH Aarhus 10R-28L:centerline
+Runways:EKAH Aarhus 10R-28L:extended centerline 1
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 left base
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 left ticks
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 left vectoring
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 right base
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 right ticks
+Runways:EKAH Aarhus 10R-28L:extended centerline 1 right vectoring
+Runways:EKAH Aarhus 10R-28L:extended centerline 2
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 left base
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 left ticks
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 left vectoring
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 right base
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 right ticks
+Runways:EKAH Aarhus 10R-28L:extended centerline 2 right vectoring
+Runways:EKBI Billund 09-27:centerline
+Runways:EKBI Billund 09-27:extended centerline 1
+Runways:EKBI Billund 09-27:extended centerline 1 left base
+Runways:EKBI Billund 09-27:extended centerline 1 left ticks
+Runways:EKBI Billund 09-27:extended centerline 1 left vectoring
+Runways:EKBI Billund 09-27:extended centerline 1 right base
+Runways:EKBI Billund 09-27:extended centerline 1 right ticks
+Runways:EKBI Billund 09-27:extended centerline 1 right vectoring
+Runways:EKBI Billund 09-27:extended centerline 2
+Runways:EKBI Billund 09-27:extended centerline 2 left base
+Runways:EKBI Billund 09-27:extended centerline 2 left ticks
+Runways:EKBI Billund 09-27:extended centerline 2 left vectoring
+Runways:EKBI Billund 09-27:extended centerline 2 right base
+Runways:EKBI Billund 09-27:extended centerline 2 right ticks
+Runways:EKBI Billund 09-27:extended centerline 2 right vectoring
+Runways:EKCH København_Kastrup 04L-22R:centerline
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 left base
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 left ticks
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 left vectoring
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 right base
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 right ticks
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 1 right vectoring
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 left base
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 left ticks
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 left vectoring
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 right base
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 right ticks
+Runways:EKCH København_Kastrup 04L-22R:extended centerline 2 right vectoring
+Runways:EKCH København_Kastrup 12-30:centerline
+Runways:EKCH København_Kastrup 12-30:extended centerline 1
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 left base
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 left ticks
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 left vectoring
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 right base
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 right ticks
+Runways:EKCH København_Kastrup 12-30:extended centerline 1 right vectoring
+Runways:EKCH København_Kastrup 12-30:extended centerline 2
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 left base
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 left ticks
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 left vectoring
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 right base
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 right ticks
+Runways:EKCH København_Kastrup 12-30:extended centerline 2 right vectoring
+Runways:EKCH København_Kastrup 22L-04R:centerline
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 left base
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 left ticks
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 left vectoring
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 right base
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 right ticks
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 1 right vectoring
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 left base
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 left ticks
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 left vectoring
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 right base
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 right ticks
+Runways:EKCH København_Kastrup 22L-04R:extended centerline 2 right vectoring
+Runways:EKEB Esbjerg 08-26:centerline
+Runways:EKEB Esbjerg 08-26:extended centerline 1
+Runways:EKEB Esbjerg 08-26:extended centerline 1 left base
+Runways:EKEB Esbjerg 08-26:extended centerline 1 left ticks
+Runways:EKEB Esbjerg 08-26:extended centerline 1 left vectoring
+Runways:EKEB Esbjerg 08-26:extended centerline 1 right base
+Runways:EKEB Esbjerg 08-26:extended centerline 1 right ticks
+Runways:EKEB Esbjerg 08-26:extended centerline 1 right vectoring
+Runways:EKEB Esbjerg 08-26:extended centerline 2
+Runways:EKEB Esbjerg 08-26:extended centerline 2 left base
+Runways:EKEB Esbjerg 08-26:extended centerline 2 left ticks
+Runways:EKEB Esbjerg 08-26:extended centerline 2 left vectoring
+Runways:EKEB Esbjerg 08-26:extended centerline 2 right base
+Runways:EKEB Esbjerg 08-26:extended centerline 2 right ticks
+Runways:EKEB Esbjerg 08-26:extended centerline 2 right vectoring
+Runways:EKEB Esbjerg 08-26:name
+Runways:EKKA Karup O9R-27L:centerline
+Runways:EKKA Karup O9R-27L:extended centerline 1
+Runways:EKKA Karup O9R-27L:extended centerline 1 left base
+Runways:EKKA Karup O9R-27L:extended centerline 1 left ticks
+Runways:EKKA Karup O9R-27L:extended centerline 1 left vectoring
+Runways:EKKA Karup O9R-27L:extended centerline 1 right base
+Runways:EKKA Karup O9R-27L:extended centerline 1 right ticks
+Runways:EKKA Karup O9R-27L:extended centerline 1 right vectoring
+Runways:EKKA Karup O9R-27L:extended centerline 2
+Runways:EKKA Karup O9R-27L:extended centerline 2 left base
+Runways:EKKA Karup O9R-27L:extended centerline 2 left ticks
+Runways:EKKA Karup O9R-27L:extended centerline 2 left vectoring
+Runways:EKKA Karup O9R-27L:extended centerline 2 right base
+Runways:EKKA Karup O9R-27L:extended centerline 2 right ticks
+Runways:EKKA Karup O9R-27L:extended centerline 2 right vectoring
+Runways:EKOD Odense 06-24:centerline
+Runways:EKOD Odense 06-24:extended centerline 1
+Runways:EKOD Odense 06-24:extended centerline 1 left base
+Runways:EKOD Odense 06-24:extended centerline 1 left ticks
+Runways:EKOD Odense 06-24:extended centerline 1 left vectoring
+Runways:EKOD Odense 06-24:extended centerline 1 right base
+Runways:EKOD Odense 06-24:extended centerline 1 right ticks
+Runways:EKOD Odense 06-24:extended centerline 1 right vectoring
+Runways:EKOD Odense 06-24:extended centerline 2
+Runways:EKOD Odense 06-24:extended centerline 2 left base
+Runways:EKOD Odense 06-24:extended centerline 2 left ticks
+Runways:EKOD Odense 06-24:extended centerline 2 left vectoring
+Runways:EKOD Odense 06-24:extended centerline 2 right base
+Runways:EKOD Odense 06-24:extended centerline 2 right ticks
+Runways:EKOD Odense 06-24:extended centerline 2 right vectoring
+Runways:EKRK Roskilde 03-21:centerline
+Runways:EKRK Roskilde 03-21:extended centerline 1
+Runways:EKRK Roskilde 03-21:extended centerline 1 left base
+Runways:EKRK Roskilde 03-21:extended centerline 1 left ticks
+Runways:EKRK Roskilde 03-21:extended centerline 1 left vectoring
+Runways:EKRK Roskilde 03-21:extended centerline 1 right base
+Runways:EKRK Roskilde 03-21:extended centerline 1 right ticks
+Runways:EKRK Roskilde 03-21:extended centerline 1 right vectoring
+Runways:EKRK Roskilde 03-21:extended centerline 2
+Runways:EKRK Roskilde 03-21:extended centerline 2 left base
+Runways:EKRK Roskilde 03-21:extended centerline 2 left ticks
+Runways:EKRK Roskilde 03-21:extended centerline 2 left vectoring
+Runways:EKRK Roskilde 03-21:extended centerline 2 right base
+Runways:EKRK Roskilde 03-21:extended centerline 2 right ticks
+Runways:EKRK Roskilde 03-21:extended centerline 2 right vectoring
+Runways:EKRK Roskilde 11-29:centerline
+Runways:EKRK Roskilde 11-29:extended centerline 1
+Runways:EKRK Roskilde 11-29:extended centerline 1 left base
+Runways:EKRK Roskilde 11-29:extended centerline 1 left ticks
+Runways:EKRK Roskilde 11-29:extended centerline 1 left vectoring
+Runways:EKRK Roskilde 11-29:extended centerline 1 right base
+Runways:EKRK Roskilde 11-29:extended centerline 1 right ticks
+Runways:EKRK Roskilde 11-29:extended centerline 1 right vectoring
+Runways:EKRK Roskilde 11-29:extended centerline 2
+Runways:EKRK Roskilde 11-29:extended centerline 2 left base
+Runways:EKRK Roskilde 11-29:extended centerline 2 left ticks
+Runways:EKRK Roskilde 11-29:extended centerline 2 left vectoring
+Runways:EKRK Roskilde 11-29:extended centerline 2 right base
+Runways:EKRK Roskilde 11-29:extended centerline 2 right ticks
+Runways:EKRK Roskilde 11-29:extended centerline 2 right vectoring
+Runways:EKRN Rønne 11-29:centerline
+Runways:EKRN Rønne 11-29:extended centerline 1
+Runways:EKRN Rønne 11-29:extended centerline 1 left base
+Runways:EKRN Rønne 11-29:extended centerline 1 left ticks
+Runways:EKRN Rønne 11-29:extended centerline 1 left vectoring
+Runways:EKRN Rønne 11-29:extended centerline 1 right base
+Runways:EKRN Rønne 11-29:extended centerline 1 right ticks
+Runways:EKRN Rønne 11-29:extended centerline 1 right vectoring
+Runways:EKRN Rønne 11-29:extended centerline 2
+Runways:EKRN Rønne 11-29:extended centerline 2 left base
+Runways:EKRN Rønne 11-29:extended centerline 2 left ticks
+Runways:EKRN Rønne 11-29:extended centerline 2 left vectoring
+Runways:EKRN Rønne 11-29:extended centerline 2 right base
+Runways:EKRN Rønne 11-29:extended centerline 2 right ticks
+Runways:EKRN Rønne 11-29:extended centerline 2 right vectoring
+Runways:EKSB Sønderborg 32-14:centerline
+Runways:EKSB Sønderborg 32-14:extended centerline 1
+Runways:EKSB Sønderborg 32-14:extended centerline 1 left base
+Runways:EKSB Sønderborg 32-14:extended centerline 1 left ticks
+Runways:EKSB Sønderborg 32-14:extended centerline 1 left vectoring
+Runways:EKSB Sønderborg 32-14:extended centerline 1 right base
+Runways:EKSB Sønderborg 32-14:extended centerline 1 right ticks
+Runways:EKSB Sønderborg 32-14:extended centerline 1 right vectoring
+Runways:EKSB Sønderborg 32-14:extended centerline 2
+Runways:EKSB Sønderborg 32-14:extended centerline 2 left base
+Runways:EKSB Sønderborg 32-14:extended centerline 2 left ticks
+Runways:EKSB Sønderborg 32-14:extended centerline 2 left vectoring
+Runways:EKSB Sønderborg 32-14:extended centerline 2 right base
+Runways:EKSB Sønderborg 32-14:extended centerline 2 right ticks
+Runways:EKSB Sønderborg 32-14:extended centerline 2 right vectoring
+Runways:EKSP Skrydstrup 11L-29R:centerline
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 left base
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 left ticks
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 left vectoring
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 right base
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 right ticks
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 1 right vectoring
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 left base
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 left ticks
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 left vectoring
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 right base
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 right ticks
+Runways:EKSP Skrydstrup 11L-29R:extended centerline 2 right vectoring
+Runways:EKTS Thisted 10-28:centerline
+Runways:EKTS Thisted 10-28:extended centerline 1
+Runways:EKTS Thisted 10-28:extended centerline 1 left ticks
+Runways:EKTS Thisted 10-28:extended centerline 2
+Runways:EKTS Thisted 10-28:extended centerline 2 left ticks
+Runways:EKVJ Stauning 09-27:centerline
+Runways:EKVJ Stauning 09-27:extended centerline 1
+Runways:EKVJ Stauning 09-27:extended centerline 1 left ticks
+Runways:EKVJ Stauning 09-27:extended centerline 2
+Runways:EKVJ Stauning 09-27:extended centerline 2 left ticks
+Runways:EKYT Aalborg 08L-26R:centerline
+Runways:EKYT Aalborg 08L-26R:extended centerline 1
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 left base
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 left ticks
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 left vectoring
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 right base
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 right ticks
+Runways:EKYT Aalborg 08L-26R:extended centerline 1 right vectoring
+Runways:EKYT Aalborg 08L-26R:extended centerline 2
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 left base
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 left ticks
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 left vectoring
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 right base
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 right ticks
+Runways:EKYT Aalborg 08L-26R:extended centerline 2 right vectoring
+Runways:ENAL Vigra 07-25:centerline
+Runways:ENAL Vigra 07-25:extended centerline 1
+Runways:ENAL Vigra 07-25:extended centerline 1 left ticks
+Runways:ENAL Vigra 07-25:extended centerline 2
+Runways:ENAL Vigra 07-25:extended centerline 2 left ticks
+Runways:ENBL 25-07:centerline
+Runways:ENBL 25-07:extended centerline 1
+Runways:ENBL 25-07:extended centerline 1 left ticks
+Runways:ENBL 25-07:extended centerline 2
+Runways:ENBL 25-07:extended centerline 2 left ticks
+Runways:ENBL Forde 08-26:centerline
+Runways:ENBL Forde 08-26:extended centerline 1
+Runways:ENBL Forde 08-26:extended centerline 1 left ticks
+Runways:ENBL Forde 08-26:extended centerline 2
+Runways:ENBL Forde 08-26:extended centerline 2 left ticks
+Runways:ENBM Bømoen 09-27:centerline
+Runways:ENBM Bømoen 09-27:extended centerline 1
+Runways:ENBM Bømoen 09-27:extended centerline 1 left ticks
+Runways:ENBM Bømoen 09-27:extended centerline 2
+Runways:ENBM Bømoen 09-27:extended centerline 2 left ticks
+Runways:ENBN 04-24:centerline
+Runways:ENBN 04-24:extended centerline 1
+Runways:ENBN 04-24:extended centerline 1 left ticks
+Runways:ENBN 04-24:extended centerline 2
+Runways:ENBN 04-24:extended centerline 2 left ticks
+Runways:ENBR 17-35:centerline
+Runways:ENBR 17-35:extended centerline 1
+Runways:ENBR 17-35:extended centerline 1 left ticks
+Runways:ENBR 17-35:extended centerline 2
+Runways:ENBR 17-35:extended centerline 2 left ticks
+Runways:ENBR Bergen Flesland 17-35:centerline
+Runways:ENBR Bergen Flesland 17-35:extended centerline 1
+Runways:ENBR Bergen Flesland 17-35:extended centerline 1 left ticks
+Runways:ENBR Bergen Flesland 17-35:extended centerline 2
+Runways:ENBR Bergen Flesland 17-35:extended centerline 2 left ticks
+Runways:ENCN 22-04:centerline
+Runways:ENCN 22-04:extended centerline 1
+Runways:ENCN 22-04:extended centerline 1 left ticks
+Runways:ENCN 22-04:extended centerline 2
+Runways:ENCN 22-04:extended centerline 2 left ticks
+Runways:ENFA Flatval 04-22:centerline
+Runways:ENFA Flatval 04-22:extended centerline 1
+Runways:ENFA Flatval 04-22:extended centerline 1 left ticks
+Runways:ENFA Flatval 04-22:extended centerline 2
+Runways:ENFA Flatval 04-22:extended centerline 2 left ticks
+Runways:ENFG 15-33:centerline
+Runways:ENFG 15-33:extended centerline 1
+Runways:ENFG 15-33:extended centerline 1 left ticks
+Runways:ENFG 15-33:extended centerline 2
+Runways:ENFG 15-33:extended centerline 2 left ticks
+Runways:ENFG 33-00:centerline
+Runways:ENFG 33-00:extended centerline 1
+Runways:ENFG 33-00:extended centerline 1 left ticks
+Runways:ENFG 33-00:extended centerline 2
+Runways:ENFG 33-00:extended centerline 2 left ticks
+Runways:ENFL 25-07:centerline
+Runways:ENFL 25-07:extended centerline 1
+Runways:ENFL 25-07:extended centerline 1 left ticks
+Runways:ENFL 25-07:extended centerline 2
+Runways:ENFL 25-07:extended centerline 2 left ticks
+Runways:ENFL Florø 07-25:centerline
+Runways:ENFL Florø 07-25:extended centerline 1
+Runways:ENFL Florø 07-25:extended centerline 1 left ticks
+Runways:ENFL Florø 07-25:extended centerline 2
+Runways:ENFL Florø 07-25:extended centerline 2 left ticks
+Runways:ENGM Gardermoen 01L-19R:centerline
+Runways:ENGM Gardermoen 01L-19R:extended centerline 1
+Runways:ENGM Gardermoen 01L-19R:extended centerline 1 left ticks
+Runways:ENGM Gardermoen 01L-19R:extended centerline 2
+Runways:ENGM Gardermoen 01L-19R:extended centerline 2 left ticks
+Runways:ENGM Gardermoen 01R-19L:centerline
+Runways:ENGM Gardermoen 01R-19L:extended centerline 1
+Runways:ENGM Gardermoen 01R-19L:extended centerline 1 left ticks
+Runways:ENGM Gardermoen 01R-19L:extended centerline 2
+Runways:ENGM Gardermoen 01R-19L:extended centerline 2 left ticks
+Runways:ENHA Hamar - Stafsberg 15-33:centerline
+Runways:ENHA Hamar - Stafsberg 15-33:extended centerline 1
+Runways:ENHA Hamar - Stafsberg 15-33:extended centerline 1 left ticks
+Runways:ENHA Hamar - Stafsberg 15-33:extended centerline 2
+Runways:ENHA Hamar - Stafsberg 15-33:extended centerline 2 left ticks
+Runways:ENHD 14-32:centerline
+Runways:ENHD 14-32:extended centerline 1
+Runways:ENHD 14-32:extended centerline 1 left ticks
+Runways:ENHD 14-32:extended centerline 2
+Runways:ENHD 14-32:extended centerline 2 left ticks
+Runways:ENHD Haugesund Karmøy 14-32:centerline
+Runways:ENHD Haugesund Karmøy 14-32:extended centerline 1
+Runways:ENHD Haugesund Karmøy 14-32:extended centerline 1 left ticks
+Runways:ENHD Haugesund Karmøy 14-32:extended centerline 2
+Runways:ENHD Haugesund Karmøy 14-32:extended centerline 2 left ticks
+Runways:ENKB Kvernberget 07-25:centerline
+Runways:ENKB Kvernberget 07-25:extended centerline 1
+Runways:ENKB Kvernberget 07-25:extended centerline 1 left ticks
+Runways:ENKB Kvernberget 07-25:extended centerline 2
+Runways:ENKB Kvernberget 07-25:extended centerline 2 left ticks
+Runways:ENKJ Kjeller 12-30:centerline
+Runways:ENKJ Kjeller 12-30:extended centerline 1
+Runways:ENKJ Kjeller 12-30:extended centerline 1 left ticks
+Runways:ENKJ Kjeller 12-30:extended centerline 2
+Runways:ENKJ Kjeller 12-30:extended centerline 2 left ticks
+Runways:ENLI 14-00:centerline
+Runways:ENLI 14-00:extended centerline 1
+Runways:ENLI 14-00:extended centerline 1 left ticks
+Runways:ENLI 14-00:extended centerline 2
+Runways:ENLI 14-00:extended centerline 2 left ticks
+Runways:ENML Molde - Aarø 07-25:centerline
+Runways:ENML Molde - Aarø 07-25:extended centerline 1
+Runways:ENML Molde - Aarø 07-25:extended centerline 1 left ticks
+Runways:ENML Molde - Aarø 07-25:extended centerline 2
+Runways:ENML Molde - Aarø 07-25:extended centerline 2 left ticks
+Runways:ENNM 07-25:centerline
+Runways:ENNM 07-25:extended centerline 1
+Runways:ENNM 07-25:extended centerline 1 left ticks
+Runways:ENNM 07-25:extended centerline 2
+Runways:ENNM 07-25:extended centerline 2 left ticks
+Runways:ENNO 12-30:centerline
+Runways:ENNO 12-30:extended centerline 1
+Runways:ENNO 12-30:extended centerline 1 left ticks
+Runways:ENNO 12-30:extended centerline 2
+Runways:ENNO 12-30:extended centerline 2 left ticks
+Runways:ENOL 15/33 15-33:centerline
+Runways:ENOL 15/33 15-33:extended centerline 1
+Runways:ENOL 15/33 15-33:extended centerline 1 left ticks
+Runways:ENOL 15/33 15-33:extended centerline 2
+Runways:ENOL 15/33 15-33:extended centerline 2 left ticks
+Runways:ENOL 33-00:centerline
+Runways:ENOL 33-00:extended centerline 1
+Runways:ENOL 33-00:extended centerline 1 left ticks
+Runways:ENOL 33-00:extended centerline 2
+Runways:ENOL 33-00:extended centerline 2 left ticks
+Runways:ENOV Hovden 06-24:centerline
+Runways:ENOV Hovden 06-24:extended centerline 1
+Runways:ENOV Hovden 06-24:extended centerline 1 left ticks
+Runways:ENOV Hovden 06-24:extended centerline 2
+Runways:ENOV Hovden 06-24:extended centerline 2 left ticks
+Runways:ENOV LLZ 12-00:centerline
+Runways:ENOV LLZ 12-00:extended centerline 1
+Runways:ENOV LLZ 12-00:extended centerline 1 left ticks
+Runways:ENOV LLZ 12-00:extended centerline 2
+Runways:ENOV LLZ 12-00:extended centerline 2 left ticks
+Runways:ENOV Orsta Volda 06-24:centerline
+Runways:ENOV Orsta Volda 06-24:extended centerline 1
+Runways:ENOV Orsta Volda 06-24:extended centerline 1 left ticks
+Runways:ENOV Orsta Volda 06-24:extended centerline 2
+Runways:ENOV Orsta Volda 06-24:extended centerline 2 left ticks
+Runways:ENRM 04-22:centerline
+Runways:ENRM 04-22:extended centerline 1
+Runways:ENRM 04-22:extended centerline 1 left ticks
+Runways:ENRM 04-22:extended centerline 2
+Runways:ENRM 04-22:extended centerline 2 left ticks
+Runways:ENRO 14-32:centerline
+Runways:ENRO 14-32:extended centerline 1
+Runways:ENRO 14-32:extended centerline 1 left ticks
+Runways:ENRO 14-32:extended centerline 2
+Runways:ENRO 14-32:extended centerline 2 left ticks
+Runways:ENRY 12-30:centerline
+Runways:ENRY 12-30:extended centerline 1
+Runways:ENRY 12-30:extended centerline 1 left ticks
+Runways:ENRY 12-30:extended centerline 2
+Runways:ENRY 12-30:extended centerline 2 left ticks
+Runways:ENSD 27-15:centerline
+Runways:ENSD 27-15:extended centerline 1
+Runways:ENSD 27-15:extended centerline 1 left ticks
+Runways:ENSD 27-15:extended centerline 2
+Runways:ENSD 27-15:extended centerline 2 left ticks
+Runways:ENSD Sandane 09-27:centerline
+Runways:ENSD Sandane 09-27:extended centerline 1
+Runways:ENSD Sandane 09-27:extended centerline 1 left ticks
+Runways:ENSD Sandane 09-27:extended centerline 2
+Runways:ENSD Sandane 09-27:extended centerline 2 left ticks
+Runways:ENSG 24-00:centerline
+Runways:ENSG 24-00:extended centerline 1
+Runways:ENSG 24-00:extended centerline 1 left ticks
+Runways:ENSG 24-00:extended centerline 2
+Runways:ENSG 24-00:extended centerline 2 left ticks
+Runways:ENSG Sogndal 06-24:centerline
+Runways:ENSG Sogndal 06-24:extended centerline 1
+Runways:ENSG Sogndal 06-24:extended centerline 1 left ticks
+Runways:ENSG Sogndal 06-24:extended centerline 2
+Runways:ENSG Sogndal 06-24:extended centerline 2 left ticks
+Runways:ENSN 01-19:centerline
+Runways:ENSN 01-19:extended centerline 1
+Runways:ENSN 01-19:extended centerline 1 left ticks
+Runways:ENSN 01-19:extended centerline 2
+Runways:ENSN 01-19:extended centerline 2 left ticks
+Runways:ENSO 15-33:centerline
+Runways:ENSO 15-33:extended centerline 1
+Runways:ENSO 15-33:extended centerline 1 left ticks
+Runways:ENSO 15-33:extended centerline 2
+Runways:ENSO 15-33:extended centerline 2 left ticks
+Runways:ENSO Sørstokken 15-33:centerline
+Runways:ENSO Sørstokken 15-33:extended centerline 1
+Runways:ENSO Sørstokken 15-33:extended centerline 1 left ticks
+Runways:ENSO Sørstokken 15-33:extended centerline 2
+Runways:ENSO Sørstokken 15-33:extended centerline 2 left ticks
+Runways:ENTO 18-36:centerline
+Runways:ENTO 18-36:extended centerline 1
+Runways:ENTO 18-36:extended centerline 1 left ticks
+Runways:ENTO 18-36:extended centerline 2
+Runways:ENTO 18-36:extended centerline 2 left ticks
+Runways:ENVA Vaernes AB 09-27:centerline
+Runways:ENVA Vaernes AB 09-27:extended centerline 1
+Runways:ENVA Vaernes AB 09-27:extended centerline 1 left ticks
+Runways:ENVA Vaernes AB 09-27:extended centerline 2
+Runways:ENVA Vaernes AB 09-27:extended centerline 2 left ticks
+Runways:ENVA Vaernes AB 14-32:centerline
+Runways:ENVA Vaernes AB 14-32:extended centerline 1
+Runways:ENVA Vaernes AB 14-32:extended centerline 1 left ticks
+Runways:ENVA Vaernes AB 14-32:extended centerline 2
+Runways:ENVA Vaernes AB 14-32:extended centerline 2 left ticks
+Runways:ENZV 11-29:centerline
+Runways:ENZV 11-29:extended centerline 1
+Runways:ENZV 11-29:extended centerline 1 left ticks
+Runways:ENZV 11-29:extended centerline 2
+Runways:ENZV 11-29:extended centerline 2 left ticks
+Runways:ENZV 18-36:centerline
+Runways:ENZV 18-36:extended centerline 1
+Runways:ENZV 18-36:extended centerline 1 left ticks
+Runways:ENZV 18-36:extended centerline 2
+Runways:ENZV 18-36:extended centerline 2 left ticks
+Runways:ESCF Malmen 01-19:centerline
+Runways:ESCF Malmen 01-19:extended centerline 1
+Runways:ESCF Malmen 01-19:extended centerline 1 left ticks
+Runways:ESCF Malmen 01-19:extended centerline 2
+Runways:ESCF Malmen 01-19:extended centerline 2 left ticks
+Runways:ESCF Malmen 08-26:centerline
+Runways:ESCF Malmen 08-26:extended centerline 1
+Runways:ESCF Malmen 08-26:extended centerline 1 left ticks
+Runways:ESCF Malmen 08-26:extended centerline 2
+Runways:ESCF Malmen 08-26:extended centerline 2 left ticks
+Runways:ESCM Uppsala 03-21:centerline
+Runways:ESCM Uppsala 03-21:extended centerline 1
+Runways:ESCM Uppsala 03-21:extended centerline 1 left ticks
+Runways:ESCM Uppsala 03-21:extended centerline 2
+Runways:ESCM Uppsala 03-21:extended centerline 2 left ticks
+Runways:ESCM Uppsala 08-26:centerline
+Runways:ESCM Uppsala 08-26:extended centerline 1
+Runways:ESCM Uppsala 08-26:extended centerline 1 left ticks
+Runways:ESCM Uppsala 08-26:extended centerline 2
+Runways:ESCM Uppsala 08-26:extended centerline 2 left ticks
+Runways:ESDF Ronneby 01-19:centerline
+Runways:ESDF Ronneby 01-19:extended centerline 1
+Runways:ESDF Ronneby 01-19:extended centerline 1 left ticks
+Runways:ESDF Ronneby 01-19:extended centerline 2
+Runways:ESDF Ronneby 01-19:extended centerline 2 left ticks
+Runways:ESGG Göteborg Landvetter 03-21:centerline
+Runways:ESGG Göteborg Landvetter 03-21:extended centerline 1
+Runways:ESGG Göteborg Landvetter 03-21:extended centerline 1 left ticks
+Runways:ESGG Göteborg Landvetter 03-21:extended centerline 2
+Runways:ESGG Göteborg Landvetter 03-21:extended centerline 2 left ticks
+Runways:ESGJ Jönköping 01-19:centerline
+Runways:ESGJ Jönköping 01-19:extended centerline 1
+Runways:ESGJ Jönköping 01-19:extended centerline 1 left ticks
+Runways:ESGJ Jönköping 01-19:extended centerline 2
+Runways:ESGJ Jönköping 01-19:extended centerline 2 left ticks
+Runways:ESGL Lidköping 06-24:centerline
+Runways:ESGL Lidköping 06-24:extended centerline 1
+Runways:ESGL Lidköping 06-24:extended centerline 1 left ticks
+Runways:ESGL Lidköping 06-24:extended centerline 2
+Runways:ESGL Lidköping 06-24:extended centerline 2 left ticks
+Runways:ESGP Säve 01-19:centerline
+Runways:ESGP Säve 01-19:extended centerline 1
+Runways:ESGP Säve 01-19:extended centerline 1 left ticks
+Runways:ESGP Säve 01-19:extended centerline 2
+Runways:ESGP Säve 01-19:extended centerline 2 left ticks
+Runways:ESGR Skövde 01-19:centerline
+Runways:ESGR Skövde 01-19:extended centerline 1
+Runways:ESGR Skövde 01-19:extended centerline 1 left ticks
+Runways:ESGR Skövde 01-19:extended centerline 2
+Runways:ESGR Skövde 01-19:extended centerline 2 left ticks
+Runways:ESGT Trollhättan-Vänersborg 15-33:centerline
+Runways:ESGT Trollhättan-Vänersborg 15-33:extended centerline 1
+Runways:ESGT Trollhättan-Vänersborg 15-33:extended centerline 1 left ticks
+Runways:ESGT Trollhättan-Vänersborg 15-33:extended centerline 2
+Runways:ESGT Trollhättan-Vänersborg 15-33:extended centerline 2 left ticks
+Runways:ESIA Karlsborg 06-24:centerline
+Runways:ESIA Karlsborg 06-24:extended centerline 1
+Runways:ESIA Karlsborg 06-24:extended centerline 1 left ticks
+Runways:ESIA Karlsborg 06-24:extended centerline 2
+Runways:ESIA Karlsborg 06-24:extended centerline 2 left ticks
+Runways:ESIB Såtenäs 01-19:centerline
+Runways:ESIB Såtenäs 01-19:extended centerline 1
+Runways:ESIB Såtenäs 01-19:extended centerline 1 left ticks
+Runways:ESIB Såtenäs 01-19:extended centerline 2
+Runways:ESIB Såtenäs 01-19:extended centerline 2 left ticks
+Runways:ESKK Karlskoga 03-21:centerline
+Runways:ESKK Karlskoga 03-21:extended centerline 1
+Runways:ESKK Karlskoga 03-21:extended centerline 1 left ticks
+Runways:ESKK Karlskoga 03-21:extended centerline 2
+Runways:ESKK Karlskoga 03-21:extended centerline 2 left ticks
+Runways:ESKM Mora 16-34:centerline
+Runways:ESKM Mora 16-34:extended centerline 1
+Runways:ESKM Mora 16-34:extended centerline 1 left ticks
+Runways:ESKM Mora 16-34:extended centerline 2
+Runways:ESKM Mora 16-34:extended centerline 2 left ticks
+Runways:ESKN Skavsta 08-26:centerline
+Runways:ESKN Skavsta 08-26:extended centerline 1
+Runways:ESKN Skavsta 08-26:extended centerline 1 left ticks
+Runways:ESKN Skavsta 08-26:extended centerline 2
+Runways:ESKN Skavsta 08-26:extended centerline 2 left ticks
+Runways:ESKN Skavsta 16-34:centerline
+Runways:ESKN Skavsta 16-34:extended centerline 1
+Runways:ESKN Skavsta 16-34:extended centerline 1 left ticks
+Runways:ESKN Skavsta 16-34:extended centerline 2
+Runways:ESKN Skavsta 16-34:extended centerline 2 left ticks
+Runways:ESKV Arvika 01-19:centerline
+Runways:ESKV Arvika 01-19:extended centerline 1
+Runways:ESKV Arvika 01-19:extended centerline 1 left ticks
+Runways:ESKV Arvika 01-19:extended centerline 2
+Runways:ESKV Arvika 01-19:extended centerline 2 left ticks
+Runways:ESMK Kristianstad 01-19:centerline
+Runways:ESMK Kristianstad 01-19:extended centerline 1
+Runways:ESMK Kristianstad 01-19:extended centerline 1 left ticks
+Runways:ESMK Kristianstad 01-19:extended centerline 2
+Runways:ESMK Kristianstad 01-19:extended centerline 2 left ticks
+Runways:ESMO Oskarshamn 01-19:centerline
+Runways:ESMO Oskarshamn 01-19:extended centerline 1
+Runways:ESMO Oskarshamn 01-19:extended centerline 1 left ticks
+Runways:ESMO Oskarshamn 01-19:extended centerline 2
+Runways:ESMO Oskarshamn 01-19:extended centerline 2 left ticks
+Runways:ESMQ Kalmar 16-34:centerline
+Runways:ESMQ Kalmar 16-34:extended centerline 1
+Runways:ESMQ Kalmar 16-34:extended centerline 1 left ticks
+Runways:ESMQ Kalmar 16-34:extended centerline 2
+Runways:ESMQ Kalmar 16-34:extended centerline 2 left ticks
+Runways:ESMS Sturup 17-35:centerline
+Runways:ESMS Sturup 17-35:extended centerline 1
+Runways:ESMS Sturup 17-35:extended centerline 1 left ticks
+Runways:ESMS Sturup 17-35:extended centerline 2
+Runways:ESMS Sturup 17-35:extended centerline 2 left ticks
+Runways:ESMT Halmstad 01-19:centerline
+Runways:ESMT Halmstad 01-19:extended centerline 1
+Runways:ESMT Halmstad 01-19:extended centerline 1 left ticks
+Runways:ESMT Halmstad 01-19:extended centerline 2
+Runways:ESMT Halmstad 01-19:extended centerline 2 left ticks
+Runways:ESMX Kronoberg 01-19:centerline
+Runways:ESMX Kronoberg 01-19:extended centerline 1
+Runways:ESMX Kronoberg 01-19:extended centerline 1 left ticks
+Runways:ESMX Kronoberg 01-19:extended centerline 2
+Runways:ESMX Kronoberg 01-19:extended centerline 2 left ticks
+Runways:ESND Sveg 09-27:centerline
+Runways:ESND Sveg 09-27:extended centerline 1
+Runways:ESND Sveg 09-27:extended centerline 1 left ticks
+Runways:ESND Sveg 09-27:extended centerline 2
+Runways:ESND Sveg 09-27:extended centerline 2 left ticks
+Runways:ESNG Gällivare 12-30:centerline
+Runways:ESNG Gällivare 12-30:extended centerline 1
+Runways:ESNG Gällivare 12-30:extended centerline 1 left ticks
+Runways:ESNG Gällivare 12-30:extended centerline 2
+Runways:ESNG Gällivare 12-30:extended centerline 2 left ticks
+Runways:ESNJ Jokkmokk 14-32:centerline
+Runways:ESNJ Jokkmokk 14-32:extended centerline 1
+Runways:ESNJ Jokkmokk 14-32:extended centerline 1 left ticks
+Runways:ESNJ Jokkmokk 14-32:extended centerline 2
+Runways:ESNJ Jokkmokk 14-32:extended centerline 2 left ticks
+Runways:ESNK Kramfors-Sollefteå 17-35:centerline
+Runways:ESNK Kramfors-Sollefteå 17-35:extended centerline 1
+Runways:ESNK Kramfors-Sollefteå 17-35:extended centerline 1 left ticks
+Runways:ESNK Kramfors-Sollefteå 17-35:extended centerline 2
+Runways:ESNK Kramfors-Sollefteå 17-35:extended centerline 2 left ticks
+Runways:ESNL Lycksele 14-32:centerline
+Runways:ESNL Lycksele 14-32:extended centerline 1
+Runways:ESNL Lycksele 14-32:extended centerline 1 left ticks
+Runways:ESNL Lycksele 14-32:extended centerline 2
+Runways:ESNL Lycksele 14-32:extended centerline 2 left ticks
+Runways:ESNN Sundsvall-Härnösand 16-34:centerline
+Runways:ESNN Sundsvall-Härnösand 16-34:extended centerline 1
+Runways:ESNN Sundsvall-Härnösand 16-34:extended centerline 1 left ticks
+Runways:ESNN Sundsvall-Härnösand 16-34:extended centerline 2
+Runways:ESNN Sundsvall-Härnösand 16-34:extended centerline 2 left ticks
+Runways:ESNO Örnskoldsvik 12-30:centerline
+Runways:ESNO Örnskoldsvik 12-30:extended centerline 1
+Runways:ESNO Örnskoldsvik 12-30:extended centerline 1 left ticks
+Runways:ESNO Örnskoldsvik 12-30:extended centerline 2
+Runways:ESNO Örnskoldsvik 12-30:extended centerline 2 left ticks
+Runways:ESNQ Kiruna 03-21:centerline
+Runways:ESNQ Kiruna 03-21:extended centerline 1
+Runways:ESNQ Kiruna 03-21:extended centerline 1 left ticks
+Runways:ESNQ Kiruna 03-21:extended centerline 2
+Runways:ESNQ Kiruna 03-21:extended centerline 2 left ticks
+Runways:ESNS Skellefteå 10-28:centerline
+Runways:ESNS Skellefteå 10-28:extended centerline 1
+Runways:ESNS Skellefteå 10-28:extended centerline 1 left ticks
+Runways:ESNS Skellefteå 10-28:extended centerline 2
+Runways:ESNS Skellefteå 10-28:extended centerline 2 left ticks
+Runways:ESNU Umeå 14-32:centerline
+Runways:ESNU Umeå 14-32:extended centerline 1
+Runways:ESNU Umeå 14-32:extended centerline 1 left ticks
+Runways:ESNU Umeå 14-32:extended centerline 2
+Runways:ESNU Umeå 14-32:extended centerline 2 left ticks
+Runways:ESNV Vilhelmina 10-28:centerline
+Runways:ESNV Vilhelmina 10-28:extended centerline 1
+Runways:ESNV Vilhelmina 10-28:extended centerline 1 left ticks
+Runways:ESNV Vilhelmina 10-28:extended centerline 2
+Runways:ESNV Vilhelmina 10-28:extended centerline 2 left ticks
+Runways:ESNX Arvidsjaur 12-30:centerline
+Runways:ESNX Arvidsjaur 12-30:extended centerline 1
+Runways:ESNX Arvidsjaur 12-30:extended centerline 1 left ticks
+Runways:ESNX Arvidsjaur 12-30:extended centerline 2
+Runways:ESNX Arvidsjaur 12-30:extended centerline 2 left ticks
+Runways:ESNY Söderhamn 12-30:centerline
+Runways:ESNY Söderhamn 12-30:extended centerline 1
+Runways:ESNY Söderhamn 12-30:extended centerline 1 left ticks
+Runways:ESNY Söderhamn 12-30:extended centerline 2
+Runways:ESNY Söderhamn 12-30:extended centerline 2 left ticks
+Runways:ESNZ Östersund 12-30:centerline
+Runways:ESNZ Östersund 12-30:extended centerline 1
+Runways:ESNZ Östersund 12-30:extended centerline 1 left ticks
+Runways:ESNZ Östersund 12-30:extended centerline 2
+Runways:ESNZ Östersund 12-30:extended centerline 2 left ticks
+Runways:ESOE Örebro 01-19:centerline
+Runways:ESOE Örebro 01-19:extended centerline 1
+Runways:ESOE Örebro 01-19:extended centerline 1 left ticks
+Runways:ESOE Örebro 01-19:extended centerline 2
+Runways:ESOE Örebro 01-19:extended centerline 2 left ticks
+Runways:ESOH Hagfors 18-36:centerline
+Runways:ESOH Hagfors 18-36:extended centerline 1
+Runways:ESOH Hagfors 18-36:extended centerline 1 left ticks
+Runways:ESOH Hagfors 18-36:extended centerline 2
+Runways:ESOH Hagfors 18-36:extended centerline 2 left ticks
+Runways:ESOK Karlstad 03-21:centerline
+Runways:ESOK Karlstad 03-21:extended centerline 1
+Runways:ESOK Karlstad 03-21:extended centerline 1 left ticks
+Runways:ESOK Karlstad 03-21:extended centerline 2
+Runways:ESOK Karlstad 03-21:extended centerline 2 left ticks
+Runways:ESOW Västerås 01-19:centerline
+Runways:ESOW Västerås 01-19:extended centerline 1
+Runways:ESOW Västerås 01-19:extended centerline 1 left ticks
+Runways:ESOW Västerås 01-19:extended centerline 2
+Runways:ESOW Västerås 01-19:extended centerline 2 left ticks
+Runways:ESPA Luleå-Kallax 14-32:centerline
+Runways:ESPA Luleå-Kallax 14-32:extended centerline 1
+Runways:ESPA Luleå-Kallax 14-32:extended centerline 1 left ticks
+Runways:ESPA Luleå-Kallax 14-32:extended centerline 2
+Runways:ESPA Luleå-Kallax 14-32:extended centerline 2 left ticks
+Runways:ESPE Vidsel 11-29:centerline
+Runways:ESPE Vidsel 11-29:extended centerline 1
+Runways:ESPE Vidsel 11-29:extended centerline 1 left ticks
+Runways:ESPE Vidsel 11-29:extended centerline 2
+Runways:ESPE Vidsel 11-29:extended centerline 2 left ticks
+Runways:ESSA Stockholm Arlanda 01L-19R:centerline
+Runways:ESSA Stockholm Arlanda 01L-19R:extended centerline 1
+Runways:ESSA Stockholm Arlanda 01L-19R:extended centerline 1 left ticks
+Runways:ESSA Stockholm Arlanda 01L-19R:extended centerline 2
+Runways:ESSA Stockholm Arlanda 01L-19R:extended centerline 2 left ticks
+Runways:ESSA Stockholm Arlanda 01R-19L:centerline
+Runways:ESSA Stockholm Arlanda 01R-19L:extended centerline 1
+Runways:ESSA Stockholm Arlanda 01R-19L:extended centerline 1 left ticks
+Runways:ESSA Stockholm Arlanda 01R-19L:extended centerline 2
+Runways:ESSA Stockholm Arlanda 01R-19L:extended centerline 2 left ticks
+Runways:ESSA Stockholm Arlanda 08-26:centerline
+Runways:ESSA Stockholm Arlanda 08-26:extended centerline 1
+Runways:ESSA Stockholm Arlanda 08-26:extended centerline 1 left ticks
+Runways:ESSA Stockholm Arlanda 08-26:extended centerline 2
+Runways:ESSA Stockholm Arlanda 08-26:extended centerline 2 left ticks
+Runways:ESSB Bromma 12-30:centerline
+Runways:ESSB Bromma 12-30:extended centerline 1
+Runways:ESSB Bromma 12-30:extended centerline 1 left ticks
+Runways:ESSB Bromma 12-30:extended centerline 2
+Runways:ESSB Bromma 12-30:extended centerline 2 left ticks
+Runways:ESSD Borlänge 14-32:centerline
+Runways:ESSD Borlänge 14-32:extended centerline 1
+Runways:ESSD Borlänge 14-32:extended centerline 1 left ticks
+Runways:ESSD Borlänge 14-32:extended centerline 2
+Runways:ESSD Borlänge 14-32:extended centerline 2 left ticks
+Runways:ESSF Hultsfred-Vimmerby 12-30:centerline
+Runways:ESSF Hultsfred-Vimmerby 12-30:extended centerline 1
+Runways:ESSF Hultsfred-Vimmerby 12-30:extended centerline 1 left ticks
+Runways:ESSF Hultsfred-Vimmerby 12-30:extended centerline 2
+Runways:ESSF Hultsfred-Vimmerby 12-30:extended centerline 2 left ticks
+Runways:ESSK Gävle-Sandviken 18-36:centerline
+Runways:ESSK Gävle-Sandviken 18-36:extended centerline 1
+Runways:ESSK Gävle-Sandviken 18-36:extended centerline 1 left ticks
+Runways:ESSK Gävle-Sandviken 18-36:extended centerline 2
+Runways:ESSK Gävle-Sandviken 18-36:extended centerline 2 left ticks
+Runways:ESSL Saab 11-29:centerline
+Runways:ESSL Saab 11-29:extended centerline 1
+Runways:ESSL Saab 11-29:extended centerline 1 left ticks
+Runways:ESSL Saab 11-29:extended centerline 2
+Runways:ESSL Saab 11-29:extended centerline 2 left ticks
+Runways:ESSU Eskilstuna 18-36:centerline
+Runways:ESSU Eskilstuna 18-36:extended centerline 1
+Runways:ESSU Eskilstuna 18-36:extended centerline 1 left ticks
+Runways:ESSU Eskilstuna 18-36:extended centerline 2
+Runways:ESSU Eskilstuna 18-36:extended centerline 2 left ticks
+Runways:ESSV Visby 03-21:centerline
+Runways:ESSV Visby 03-21:extended centerline 1
+Runways:ESSV Visby 03-21:extended centerline 1 left ticks
+Runways:ESSV Visby 03-21:extended centerline 2
+Runways:ESSV Visby 03-21:extended centerline 2 left ticks
+Runways:ESTA Ängelholm 14-32:centerline
+Runways:ESTA Ängelholm 14-32:extended centerline 1
+Runways:ESTA Ängelholm 14-32:extended centerline 1 left ticks
+Runways:ESTA Ängelholm 14-32:extended centerline 2
+Runways:ESTA Ängelholm 14-32:extended centerline 2 left ticks
+Runways:ESTL Ljungbyhed 11L-29R:centerline
+Runways:ESTL Ljungbyhed 11L-29R:extended centerline 1
+Runways:ESTL Ljungbyhed 11L-29R:extended centerline 1 left ticks
+Runways:ESTL Ljungbyhed 11L-29R:extended centerline 2
+Runways:ESTL Ljungbyhed 11L-29R:extended centerline 2 left ticks
+Runways:ESTL Ljungbyhed 11R-29L:centerline
+Runways:ESTL Ljungbyhed 11R-29L:extended centerline 1
+Runways:ESTL Ljungbyhed 11R-29L:extended centerline 1 left ticks
+Runways:ESTL Ljungbyhed 11R-29L:extended centerline 2
+Runways:ESTL Ljungbyhed 11R-29L:extended centerline 2 left ticks
+Runways:ESUD Storuman 15-33:centerline
+Runways:ESUD Storuman 15-33:extended centerline 1
+Runways:ESUD Storuman 15-33:extended centerline 1 left ticks
+Runways:ESUD Storuman 15-33:extended centerline 2
+Runways:ESUD Storuman 15-33:extended centerline 2 left ticks
+Runways:ESUP Pajala 11-29:centerline
+Runways:ESUP Pajala 11-29:extended centerline 1
+Runways:ESUP Pajala 11-29:extended centerline 1 left ticks
+Runways:ESUP Pajala 11-29:extended centerline 2
+Runways:ESUP Pajala 11-29:extended centerline 2 left ticks
+Runways:ESUT Hemavan 15-33:centerline
+Runways:ESUT Hemavan 15-33:extended centerline 1
+Runways:ESUT Hemavan 15-33:extended centerline 1 left ticks
+Runways:ESUT Hemavan 15-33:extended centerline 2
+Runways:ESUT Hemavan 15-33:extended centerline 2 left ticks
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:DATMAS
+WINDOWAREA:55.439664:12.134316:55.757066:13.153787

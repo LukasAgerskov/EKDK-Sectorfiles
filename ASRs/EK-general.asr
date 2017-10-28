@@ -1,0 +1,347 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Gustav\Documents\EuroScope\EKDK_FIR\Sectors\EKDK_official_16_13.sct
+SECTORTITLE:EKDK_official_16_13.sct
+ARTCC boundary:DK_AOR:
+ARTCC boundary:F:
+ARTCC high boundary:DK_U:
+ARTCC high boundary:EDWWBM:
+ARTCC high boundary:ENBD_C_CTR:
+ARTCC high boundary:ENBD_S_CTR:
+ARTCC high boundary:ENOS_CTR:
+ARTCC high boundary:ENSV_N_CTR:
+ARTCC high boundary:ENSV_S_CTR:
+ARTCC high boundary:ES_F:
+ARTCC low boundary:DK_L:
+ARTCC low boundary:DK_M:
+ARTCC low boundary:EKAH_ATS:
+ARTCC low boundary:EKAH_CTR:
+ARTCC low boundary:EKAH_TMA:
+ARTCC low boundary:EKBI_ATS:
+ARTCC low boundary:EKBI_CTR:
+ARTCC low boundary:EKBI_TMA-A:
+ARTCC low boundary:EKBI_TMA-B:
+ARTCC low boundary:EKBI_TMA-C:
+ARTCC low boundary:EKBI_TMA-D:
+ARTCC low boundary:EKCH_CTR:
+ARTCC low boundary:EKCH_FIN-04:
+ARTCC low boundary:EKCH_FIN-12:
+ARTCC low boundary:EKCH_FIN-22:
+ARTCC low boundary:EKCH_FIN-30:
+ARTCC low boundary:EKCH_TMA-0:
+ARTCC low boundary:EKCH_TMA-A:
+ARTCC low boundary:EKCH_TMA-B:
+ARTCC low boundary:EKCH_TMA-C:
+ARTCC low boundary:EKCH_TMA-D:
+ARTCC low boundary:EKCH_TMA-E:
+ARTCC low boundary:EKEB_TIA:
+ARTCC low boundary:EKKA_ATS:
+ARTCC low boundary:EKKA_CTR:
+ARTCC low boundary:EKKA_TMA:
+ARTCC low boundary:EKRK_CTR:
+ARTCC low boundary:EKRK_TMA-A:
+ARTCC low boundary:EKRK_TMA-B:
+ARTCC low boundary:EKRK_TMA-C:
+ARTCC low boundary:EKRK_TMA-D:
+ARTCC low boundary:EKRK_TMA-E:
+ARTCC low boundary:EKRN_CTR:
+ARTCC low boundary:EKSP_ATS:
+ARTCC low boundary:EKSP_CTR:
+ARTCC low boundary:EKSP_TMA:
+ARTCC low boundary:EKYT_ATS:
+ARTCC low boundary:EKYT_CTR:
+ARTCC low boundary:EKYT_TMA:
+Fixes:ABEGI:name
+Fixes:ABEGI:symbol
+Fixes:ADOVI:name
+Fixes:ADOVI:symbol
+Fixes:ARDEK:name
+Fixes:ARDEK:symbol
+Fixes:BAKIT:name
+Fixes:BAKIT:symbol
+Fixes:BALOX:name
+Fixes:BALOX:symbol
+Fixes:BASLO:name
+Fixes:BASLO:symbol
+Fixes:DINUT:name
+Fixes:DINUT:symbol
+Fixes:DOPEM:name
+Fixes:DOPEM:symbol
+Fixes:EPOXO:name
+Fixes:EPOXO:symbol
+Fixes:ERPUK:name
+Fixes:ERPUK:symbol
+Fixes:ETNOR:name
+Fixes:ETNOR:symbol
+Fixes:GELBA:name
+Fixes:GELBA:symbol
+Fixes:GIPIN:name
+Fixes:GIPIN:symbol
+Fixes:GIPUG:name
+Fixes:GIPUG:symbol
+Fixes:GUNPA:name
+Fixes:GUNPA:symbol
+Fixes:IPTON:name
+Fixes:IPTON:symbol
+Fixes:LAMOX:name
+Fixes:LAMOX:symbol
+Fixes:LOKSA:name
+Fixes:LOKSA:symbol
+Fixes:ORVIK:name
+Fixes:ORVIK:symbol
+Fixes:PIPEX:name
+Fixes:PIPEX:symbol
+Fixes:REVBO:name
+Fixes:REVBO:symbol
+Fixes:RIKSU:name
+Fixes:RIKSU:symbol
+Fixes:TISET:name
+Fixes:TISET:symbol
+Fixes:ULTIS:name
+Fixes:ULTIS:symbol
+Fixes:VALDI:name
+Fixes:VALDI:symbol
+Geo:GEO:
+Geo:N055.04.06.684:
+Geo:N055.04.07.041:
+Geo:N055.04.07.906:
+Geo:N055.04.08.263:
+Geo:N055.04.08.318:
+Geo:N055.04.08.730:
+Geo:N055.04.08.771:
+Geo:N055.04.08.854:
+Geo:N055.04.08.867:
+Geo:N055.04.08.950:
+Geo:N055.04.09.032:
+Geo:N055.04.09.060:
+Geo:N055.04.09.183:
+Geo:N055.04.09.266:
+Geo:N055.04.09.375:
+Geo:N055.04.09.650:
+Geo:N055.04.09.705:
+Geo:N055.04.09.801:
+Geo:N055.04.10.708:
+Geo:N055.04.11.325:
+Geo:N055.04.11.490:
+Geo:N055.04.11.628:
+Geo:N055.04.11.889:
+Geo:N055.04.12.026:
+Geo:N055.04.12.520:
+Geo:N055.04.12.644:
+Geo:N055.04.12.850:
+Geo:N055.04.12.905:
+Geo:N055.04.12.932:
+Geo:N055.04.12.946:
+Geo:N055.04.13.070:
+Geo:N055.04.13.152:
+Geo:N055.04.13.221:
+Geo:N055.04.13.303:
+Geo:N055.04.13.495:
+Geo:N055.04.13.523:
+Geo:N055.04.13.715:
+Geo:N055.04.14.223:
+Geo:N055.04.14.566:
+Geo:N055.04.14.580:
+Geo:N055.04.14.786:
+Geo:N055.04.15.033:
+Geo:N055.04.15.363:
+VORs:AAL:symbol
+VORs:ALF:symbol
+VORs:ALM:symbol
+VORs:ALS:symbol
+VORs:AND:symbol
+VORs:ANE:symbol
+VORs:ANT:symbol
+VORs:ANW:symbol
+VORs:ARL:symbol
+VORs:ARS:symbol
+VORs:ASW:symbol
+VORs:ATA:symbol
+VORs:BAK:symbol
+VORs:BAR:symbol
+VORs:BBU:symbol
+VORs:BDF:symbol
+VORs:BDT:symbol
+VORs:BHD:symbol
+VORs:BKD:symbol
+VORs:BMN:symbol
+VORs:BNA:symbol
+VORs:BNK:symbol
+VORs:BNN:symbol
+VORs:BOO:symbol
+VORs:BOR:symbol
+VORs:CDA:symbol
+VORs:CGY:symbol
+VORs:CWZ:symbol
+VORs:DAR:symbol
+VORs:DGP:symbol
+VORs:DHE:symbol
+VORs:DKR:symbol
+VORs:DRA:symbol
+VORs:EEL:symbol
+VORs:EGB:symbol
+VORs:ENO:symbol
+VORs:ENW:symbol
+VORs:EVD:symbol
+VORs:FLD:symbol
+VORs:FLE:symbol
+VORs:FLO:symbol
+VORs:FLS:symbol
+VORs:GAM:symbol
+VORs:GES:symbol
+VORs:GFC:symbol
+VORs:GRM:symbol
+VORs:GRU:symbol
+VORs:HAL:symbol
+VORs:HAM:symbol
+VORs:HAR:symbol
+VORs:HEI:symbol
+VORs:HEL:symbol
+VORs:HMF:symbol
+VORs:HMR:symbol
+VORs:HNT:symbol
+VORs:HUM:symbol
+VORs:JNS:symbol
+VORs:JON:symbol
+VORs:JUV:symbol
+VORs:KAD:symbol
+VORs:KAL:symbol
+VORs:KAR:symbol
+VORs:KAS:symbol
+VORs:KAU:symbol
+VORs:KHD:symbol
+VORs:KIK:symbol
+VORs:KLA:symbol
+VORs:KLD:symbol
+VORs:KMI:symbol
+VORs:KNA:symbol
+VORs:KNI:symbol
+VORs:KNO:symbol
+VORs:KNS:symbol
+VORs:KOR:symbol
+VORs:KRA:symbol
+VORs:KRM:symbol
+VORs:KRS:symbol
+VORs:KRT:symbol
+VORs:KSD:symbol
+VORs:KVB:symbol
+VORs:LAG:symbol
+VORs:LAV:symbol
+VORs:LBE:symbol
+VORs:LBN:symbol
+VORs:LIE:symbol
+VORs:LJU:symbol
+VORs:LNE:symbol
+VORs:LST:symbol
+VORs:LSY:symbol
+VORs:LUB:symbol
+VORs:LUD:symbol
+VORs:LWD:symbol
+VORs:MAR:symbol
+VORs:MES:symbol
+VORs:MIC:symbol
+VORs:MNS:symbol
+VORs:MOS:symbol
+VORs:NAT:symbol
+VORs:NDO:symbol
+VORs:NEG:symbol
+VORs:NOL:symbol
+VORs:NTL:symbol
+VORs:ODN:symbol
+VORs:ORL:symbol
+VORs:ORM:symbol
+VORs:OSK:symbol
+VORs:OSS:symbol
+VORs:OTR:symbol
+VORs:OUK:symbol
+VORs:OYA:symbol
+VORs:PIR:symbol
+VORs:PMD:symbol
+VORs:PRI:symbol
+VORs:PRN:symbol
+VORs:PVO:symbol
+VORs:RAM:symbol
+VORs:RIX:symbol
+VORs:ROE:symbol
+VORs:ROI:symbol
+VORs:RON:symbol
+VORs:RQ:symbol
+VORs:RUS:symbol
+VORs:RVK:symbol
+VORs:RYG:symbol
+VORs:SAU:symbol
+VORs:SDA:symbol
+VORs:SDR:symbol
+VORs:SIG:symbol
+VORs:SKA:symbol
+VORs:SKG:symbol
+VORs:SKI:symbol
+VORs:SKR:symbol
+VORs:SLU:symbol
+VORs:SOA:symbol
+VORs:SOG:symbol
+VORs:SPA:symbol
+VORs:SPB:symbol
+VORs:STD:symbol
+VORs:STO:symbol
+VORs:SUA:symbol
+VORs:SUM:symbol
+VORs:SUN:symbol
+VORs:SUP:symbol
+VORs:SUW:symbol
+VORs:SVA:symbol
+VORs:SVD:symbol
+VORs:SVL:symbol
+VORs:SWG:symbol
+VORs:TEB:symbol
+VORs:TGA:symbol
+VORs:TLL:symbol
+VORs:TNO:symbol
+VORs:TOR:symbol
+VORs:TRB:symbol
+VORs:TRL:symbol
+VORs:TRM:symbol
+VORs:TRO:symbol
+VORs:TRP:symbol
+VORs:TRS:symbol
+VORs:TRT:symbol
+VORs:UME:symbol
+VORs:UTT:symbol
+VORs:VAE:symbol
+VORs:VAS:symbol
+VORs:VEH:symbol
+VORs:VEY:symbol
+VORs:VFL:symbol
+VORs:VG:symbol
+VORs:VIA:symbol
+VORs:VIG:symbol
+VORs:VIL:symbol
+VORs:VLL:symbol
+VORs:VNO:symbol
+VORs:VNT:symbol
+VORs:VOO:symbol
+VORs:VRD:symbol
+VORs:VSB:symbol
+VORs:VSN:symbol
+VORs:VTB:symbol
+VORs:VTI:symbol
+VORs:WAD:symbol
+VORs:WES:symbol
+VORs:WKL:symbol
+VORs:WSR:symbol
+VORs:WTM:symbol
+VORs:ZOL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:COOPANS_DK/SE
+WINDOWAREA:52.236717:-0.134148:60.180375:17.539182
